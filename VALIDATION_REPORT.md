@@ -1,0 +1,88 @@
+# Validation Report - ingredient-storage-secrets
+
+Generated: 2026-06-02T15:35:13.901677
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Ingredient Storage Secrets
+- ✓ Article word count OK: Beginner Ingredient Storage Secrets: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Ingredient Storage Secrets
+- ✓ Article word count OK: Beginner Ingredient Storage Secrets Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Ingredient Storage Secrets
+- ✓ Article word count OK: Beginner Ingredient Storage Secrets in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Ingredient Storage Secrets
+- ✓ Article word count OK: Common Mistakes in Beginner Ingredient Storage Secrets
+- ✓ Article word count OK: Beginner Ingredient Storage Secrets for Beginners
+- ✓ Article word count OK: Advanced Beginner Ingredient Storage Secrets Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Ingredient Storage Secrets
+- ✓ Article word count OK: Advanced Ingredient Storage Secrets: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Ingredient Storage Secrets
+- ✓ Article word count OK: Advanced Ingredient Storage Secrets Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Ingredient Storage Secrets
+- ✓ Article word count OK: Advanced Ingredient Storage Secrets in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Ingredient Storage Secrets
+- ✓ Article word count OK: Common Mistakes in Advanced Ingredient Storage Secrets
+- ✓ Article word count OK: Advanced Ingredient Storage Secrets for Beginners
+- ✓ Article word count OK: Advanced Advanced Ingredient Storage Secrets Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ingredient Storage Secrets Tips
+- ✓ Article word count OK: Ingredient Storage Secrets Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ingredient Storage Secrets Tips
+- ✓ Article word count OK: Ingredient Storage Secrets Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Ingredient Storage Secrets Tips
+- ✓ Article word count OK: Ingredient Storage Secrets Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Ingredient Storage Secrets Tips
+- ✓ Article word count OK: Common Mistakes in Ingredient Storage Secrets Tips
+- ✓ Article word count OK: Ingredient Storage Secrets Tips for Beginners
+- ✓ Article word count OK: Advanced Ingredient Storage Secrets Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ingredient Storage Secrets History
+- ✓ Article word count OK: Ingredient Storage Secrets History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ingredient Storage Secrets History
+- ✓ Article word count OK: Ingredient Storage Secrets History Tips and Best Practices
+- ✓ Article word count OK: The History of Ingredient Storage Secrets History
+- ✓ Article word count OK: Ingredient Storage Secrets History in 2026: Current Trends
+- ✓ Article word count OK: Future of Ingredient Storage Secrets History
+- ✓ Article word count OK: Common Mistakes in Ingredient Storage Secrets History
+- ✓ Article word count OK: Ingredient Storage Secrets History for Beginners
+- ✓ Article word count OK: Advanced Ingredient Storage Secrets History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Ingredient Storage Secrets
+- ✓ Article word count OK: Trending Ingredient Storage Secrets: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Ingredient Storage Secrets
+- ✓ Article word count OK: Trending Ingredient Storage Secrets Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Ingredient Storage Secrets
+- ✓ Article word count OK: Trending Ingredient Storage Secrets in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Ingredient Storage Secrets
+- ✓ Article word count OK: Common Mistakes in Trending Ingredient Storage Secrets
+- ✓ Article word count OK: Trending Ingredient Storage Secrets for Beginners
+- ✓ Article word count OK: Advanced Trending Ingredient Storage Secrets Techniques
+- ✓ Article word count OK: The Ultimate Guide to Ingredient Storage Secrets Tutorials
+- ✓ Article word count OK: Ingredient Storage Secrets Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Ingredient Storage Secrets Tutorials
+- ✓ Article word count OK: Ingredient Storage Secrets Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Ingredient Storage Secrets Tutorials
+- ✓ Article word count OK: Ingredient Storage Secrets Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Ingredient Storage Secrets Tutorials
+- ✓ Article word count OK: Common Mistakes in Ingredient Storage Secrets Tutorials
+- ✓ Article word count OK: Ingredient Storage Secrets Tutorials for Beginners
+- ✓ Article word count OK: Advanced Ingredient Storage Secrets Tutorials Techniques
+- ✓ Ad configuration validated

@@ -1,0 +1,59 @@
+{
+  "siteId": "ingredient-storage-secrets",
+  "generatedAt": "2026-06-02T15:35:13.902024",
+  "categories": [
+    "beginner-ingredient-storage-secrets",
+    "advanced-ingredient-storage-secrets",
+    "tips-ingredient-storage-secrets",
+    "history-ingredient-storage-secrets",
+    "trending-ingredient-storage-secrets",
+    "tutorials-ingredient-storage-secrets"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-ingredient-storage-secrets",
+      "category_name": "Beginner Ingredient Storage Secrets"
+    },
+    {
+      "category_slug": "advanced-ingredient-storage-secrets",
+      "category_name": "Advanced Ingredient Storage Secrets"
+    },
+    {
+      "category_slug": "tips-ingredient-storage-secrets",
+      "category_name": "Ingredient Storage Secrets Tips"
+    },
+    {
+      "category_slug": "history-ingredient-storage-secrets",
+      "category_name": "Ingredient Storage Secrets History"
+    },
+    {
+      "category_slug": "trending-ingredient-storage-secrets",
+      "category_name": "Trending Ingredient Storage Secrets"
+    },
+    {
+      "category_slug": "tutorials-ingredient-storage-secrets",
+      "category_name": "Ingredient Storage Secrets Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "ingredient-storage-secrets",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Ingredient Storage Secrets Central",
+    "articles_per_row": 3
+  }
+}
